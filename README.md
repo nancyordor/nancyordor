@@ -3,6 +3,7 @@
 <h3 align="center">A backend developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **Laravel, Unit Testing**
+- 🔭 I’m currently working on a Train Ticketing System for Lagos-Ibadan Train Station (Personal Project) 
 
 - 💬 Ask me about **laravel**
 
@@ -21,7 +22,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
